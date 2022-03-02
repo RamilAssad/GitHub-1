@@ -6,5 +6,6 @@ int main()
 	cout << "I from Dagestan" << endl;
 	cout << "I am 18 years old" << endl;
 	cout << "I student NCFU" << endl;
+	cout << " 11" << endl;
 		return 0;
 }
